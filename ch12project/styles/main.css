@@ -1,0 +1,33 @@
+/*
+Name: Ny'Asia Dixon
+Date: November 8, 2026
+Project: Searching a Database with PHP and MySQL
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f6f8;
+    color: #333333;
+    margin: 30px;
+}
+
+input {
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #cccccc;
+    border-radius: 5px;
+}
+
+input[type="submit"] {
+    background-color: #234e70;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.message {
+    color: #234e70;
+    margin: 20px 0;
+}
